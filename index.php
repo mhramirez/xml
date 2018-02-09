@@ -129,6 +129,9 @@
 	$nivel2=$xml->createElement('cbc:CustomerAssignedAccountID','20601728657');
 	$nivel1->appendChild($nivel2);
 
+	$nivel2=$xml->createElement('cbc:CustomerAssignedAccountID','no se que estamos cambiando');
+	$nivel1->appendChild($nivel2);
+
 
 
 
